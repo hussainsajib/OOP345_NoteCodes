@@ -1,5 +1,7 @@
 // Pointing to a String Literal
 // ptrToStringLiteral.cpp
+// this file causes segmentation fault
+
 #include <iostream>
 int main(){
     char* p = "Avoid overwriting"; //poor coding style

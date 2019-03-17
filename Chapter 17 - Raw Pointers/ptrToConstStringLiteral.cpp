@@ -1,5 +1,7 @@
 // String Constants
 // ptrToConstStringLiteral.cpp
+//this file will not compile
+
 #include <iostream>
 int main(){
     const char* p = "Avoid overwriting"; //good coding style

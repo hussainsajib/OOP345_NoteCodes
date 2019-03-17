@@ -1,4 +1,0 @@
-ptrToStringLiteral.cpp: In function 'int main()':
-ptrToStringLiteral.cpp:5:15: warning: ISO C++ forbids converting a string constant to 'char*' [-Wwrite-strings]
-     char* p = "Avoid overwriting"; //poor coding style
-               ^~~~~~~~~~~~~~~~~~~

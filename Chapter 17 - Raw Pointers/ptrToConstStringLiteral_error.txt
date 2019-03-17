@@ -1,0 +1,4 @@
+ptrToConstStringLiteral.cpp: In function 'int main()':
+ptrToConstStringLiteral.cpp:6:12: error: assignment of read-only location '* p'
+     p[0] = 'a'; //causes a compile-time error
+            ^~~

@@ -1,0 +1,3 @@
+g++.exe: error: maximum.cpp: No such file or directory
+g++.exe: fatal error: no input files
+compilation terminated.

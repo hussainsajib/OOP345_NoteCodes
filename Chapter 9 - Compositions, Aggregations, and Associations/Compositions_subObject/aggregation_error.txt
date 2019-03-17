@@ -1,0 +1,2 @@
+g++.exe: error: aggregation.cpp: No such file or directory
+g++.exe: error: Club.cpp: No such file or directory

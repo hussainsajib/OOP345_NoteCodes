@@ -1,0 +1,4 @@
+In file included from array.cpp:4:
+array.h:17:20: error: template definition of non-template 'unsigned int Array<T>::count'
+ unsigned Array<T>::count = 0u;
+                    ^~~~~

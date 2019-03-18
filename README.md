@@ -18,7 +18,7 @@ These are the C++ codes from the course note that I am tought for OOP345 (OO Sof
   <strong>Chapter 16</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2016%20-%20File%20Stream%20Objects">File Stream Objects</a><br>
   <strong>Chapter 17</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2017%20-%20Raw%20Pointers">Raw Pointers</a><br>
   <strong>Chapter 18</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2018%20-%20Smart%20Pointers">Smart Pointers</a><br>
-  <strong>Chapter 19</strong> - <a href="#">Multi-Threading</a><br>
+  <strong>Chapter 19</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2019%20-%20Multi-Threading">Multi-Threading</a><br>
   <strong>Chapter 20</strong> - <a href="#">Thread Classes</a><br>
   <strong>Chapter 21</strong> - <a href="#">Pre-Processor Directives</a><br>
   <strong>Chapter 22</strong> - <a href="#">Arrays and Pointers to Arrays</a><br>

@@ -1,0 +1,11 @@
+MinGW compiler as tested doesn't include the thread class. So, if tried to compile the codes with multi-threading you may get "not declared" errors. 
+
+Workaround
+----------
+I have included the Standard threads implementations that I have found on https://github.com/meganz/mingw-std-threads.
+To run using these header files, you need to include them in the folder of your code and include the respective header file like this:
+    #include "mingw.thread.h" 
+instead of 
+    #include <thread>
+You also need to include the following line in your coding file as preprocessor:
+    #define _WIN32_WINNT 0x0501

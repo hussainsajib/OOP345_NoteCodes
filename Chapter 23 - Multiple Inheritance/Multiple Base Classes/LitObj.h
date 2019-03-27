@@ -3,8 +3,8 @@
 #include "Emitter.h"
 
 class LitObj : public Emitter {
-    ulong color;
+    unsigned long int color;
 public:
-    LitObj(ulong c);
-    ulong emission() const;
-}
+    LitObj(unsigned long int c);
+    unsigned long int emission() const;
+};

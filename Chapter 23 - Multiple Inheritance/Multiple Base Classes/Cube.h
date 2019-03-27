@@ -7,4 +7,4 @@ class Cube : public Shape {
 public:
     Cube (double);
     double volume() const;
-}
+};

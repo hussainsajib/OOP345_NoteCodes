@@ -9,9 +9,9 @@ These are the C++ codes from the course note that I am tought for OOP345 (OO Sof
   <strong>Chapter 7</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%207%20-%20Inheritence%20and%20Inclusion%20Polymorphism">Inheritence and Inclusion Polymorphism</a><br>
   <strong>Chapter 8</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%208%20-%20Template">Templates</a><br>
   <strong>Chapter 9</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%209%20-%20Compositions%2C%20Aggregations%2C%20and%20Associations">Composition, Aggregations and Associations</a><br>
-  <strong>Chapter 10</strong> - Expressions<br>
+  <strong>Chapter 10</strong> -<a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2010%20-%20Expressions">Expressions</a><br>
   <strong>Chapter 11</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2011%20-%20Functions">Functions</a><br>
-  <strong>Chapter 12</strong> - Error Handling<br>
+  <strong>Chapter 12</strong> -<a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2012%20-%20Error%20Handling">Error Handling</a><br>
   <strong>Chapter 13</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2013%20-%20Standard%20Library">Standard Library</a><br>
   <strong>Chapter 14</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2014%20-%20Containers%20and%20Iterators">Containers and Iterators</a><br>
   <strong>Chapter 15</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2015%20-%20Algorithms">Algorithms</a><br>

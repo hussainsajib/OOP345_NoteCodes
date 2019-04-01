@@ -23,7 +23,7 @@ These are the C++ codes from the course note that I am tought for OOP345 (OO Sof
   <strong>Chapter 21</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2021%20-%20Pre-Processor%20Directives">Pre-Processor Directives</a><br>
   <strong>Chapter 22</strong> - <a href="https://github.com/HussainIslam/OOP345_NoteCodes/tree/master/Chapter%2022%20-%20Arrays%20and%20Pointers%20to%20Arrays">Arrays and Pointers to Arrays</a><br>
   <strong>Chapter 23</strong> - <a href="#">Multiple Inheritence</a><br>
-  <strong>Chapter 25</strong> - <a href="#">Bit-Wise Expressions</a><br>
-  <strong>Chapter 26</strong> - <a href="#">Linked List Technology</a><br>
-  <strong>Chapter 27</strong> - <a href="#">Other Topics</a><br>
+  <strong>Chapter 24</strong> - <a href="#">Bit-Wise Expressions</a><br>
+  <strong>Chapter 25</strong> - <a href="#">Linked List Technology</a><br>
+  <strong>Chapter 26</strong> - <a href="#">Other Topics</a><br>
 
